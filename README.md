@@ -24,7 +24,7 @@ Select the raw radio button.
 
 Set the type to JSON (application/json).
 
-In the request body enter JSON for a to-do item e.g:</br>
+In the request body enter JSON for a student object e.g:</br>
 //</br>
 {</br>
         "FirstName" : "Felix",</br>
